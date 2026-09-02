@@ -4,7 +4,7 @@ int main(){
 
     /*
     int x; // Declaracion
-    x=5; // Asigancion
+    x=5; // Asignacion
     */
     
     int x = 5;
