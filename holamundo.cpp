@@ -17,5 +17,5 @@ lineas
 */
 
 /*Nos vemos en Irlanda, Dublín Atlas Lenguague School*/
-/*Estyoy aprendiendo Git*/
+/*Estoy aprendiendo Git*/
 /*Regreso a Project C++*/
